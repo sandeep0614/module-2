@@ -1,2 +1,2 @@
-# module-2
+# module_2
 module-2 repository
